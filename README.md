@@ -8,6 +8,8 @@ Current scenarios:
 - Cat-boy/girl
 - Wolf-boy/girl
 
+![Capture](https://user-images.githubusercontent.com/67405765/195981899-d36a04ed-7a2d-4a9d-acca-2256a3fb9293.PNG)
+
 ## Installation
 
 Download this repo and place it in a folder inside your `data/mods/` folder.

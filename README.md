@@ -8,7 +8,8 @@ Current scenarios:
 - Cat-boy/girl
 - Wolf-boy/girl
 
-![Capture](https://user-images.githubusercontent.com/67405765/195981899-d36a04ed-7a2d-4a9d-acca-2256a3fb9293.PNG)
+
+![Capture](https://user-images.githubusercontent.com/67405765/195982447-7d23a98e-7cc0-4b95-9b7a-f64dced6e131.PNG)
 
 ## Installation
 

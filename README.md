@@ -7,3 +7,7 @@ Compatible with 0.F and experimental versions released in that time period.
 Current scenarios:
 - Cat-boy/girl
 - Wolf-boy/girl
+
+## Installation
+
+Download this repo and place it in a folder inside your `data/mods/` folder.

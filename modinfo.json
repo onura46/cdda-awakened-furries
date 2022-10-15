@@ -1,0 +1,11 @@
+[
+    {
+      "type": "MOD_INFO",
+      "id": "awakened_furries",
+      "name": "Awakened Furries",
+      "authors": [ "onura46" ],
+      "description": "Introduces scenarios designed around becoming an adorable furry monster!",
+      "category": "content",
+      "dependencies": [ "dda" ]
+    }
+  ]

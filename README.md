@@ -1,5 +1,7 @@
 # C:DDA - Awakened Furries Mod
 
+BRIGHT NIGHTS BRANCH - WIP - NOT FUNCTIONAL YET
+
 This mod fills a niche I noticed in the CDDA community; players would often debug in fursuits or furry traits. This introduces scenarios that require you to become a furry. You start with a fursuit and a mission to transform! These scenarios are not compatible with vanilla CDDA canon, and exist for utility and fun only!
 
 Compatible with 0.F and experimental versions released in that time period.
